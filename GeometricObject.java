@@ -1,4 +1,4 @@
-package pack;
+package zou;
 
 public class GeometricObject {
 
